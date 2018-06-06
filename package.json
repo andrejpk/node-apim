@@ -1,0 +1,15 @@
+{
+  "name": "node-apim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrej Kyselica (Microsoft)",
+  "license": "MIT",
+  "dependencies": {
+    "azure-arm-apimanagement": "^2.1.1-preview",
+    "dotenv": "^6.0.0"
+  }
+}
