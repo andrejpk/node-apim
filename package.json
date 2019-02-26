@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Andrej Kyselica (Microsoft)",
   "license": "MIT",
   "dependencies": {
-    "azure-arm-apimanagement": "^2.1.1-preview",
+    "azure-arm-apimanagement": "^4.4.0-preview",
     "dotenv": "^6.0.0"
   }
 }
