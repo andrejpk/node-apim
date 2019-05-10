@@ -9,7 +9,7 @@
   "author": "Andrej Kyselica (Microsoft)",
   "license": "MIT",
   "dependencies": {
-    "azure-arm-apimanagement": "^4.4.0-preview",
+    "azure-arm-apimanagement": "^5.0.0",
     "dotenv": "^8.0.0"
   }
 }
